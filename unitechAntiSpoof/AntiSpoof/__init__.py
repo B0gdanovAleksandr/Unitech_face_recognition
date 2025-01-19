@@ -1,0 +1,1 @@
+from .FaceAntiSpoofing import AntiSpoof

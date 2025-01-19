@@ -1,0 +1,17 @@
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/home/svgi/git/Unitech_begginers/dotnet/bin/Debug/net8.0/dotnet
+/home/svgi/git/Unitech_begginers/dotnet/bin/Debug/net8.0/dotnet.deps.json
+/home/svgi/git/Unitech_begginers/dotnet/bin/Debug/net8.0/dotnet.runtimeconfig.json
+/home/svgi/git/Unitech_begginers/dotnet/bin/Debug/net8.0/dotnet.dll
+/home/svgi/git/Unitech_begginers/dotnet/bin/Debug/net8.0/dotnet.pdb
+/home/svgi/git/Unitech_begginers/dotnet/bin/Debug/net8.0/Python.Runtime.dll
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.csproj.AssemblyReference.cache
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.csproj.Up2Date
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.dll
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/refint/dotnet.dll
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.pdb
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
+/home/svgi/git/Unitech_begginers/dotnet/obj/Debug/net8.0/ref/dotnet.dll

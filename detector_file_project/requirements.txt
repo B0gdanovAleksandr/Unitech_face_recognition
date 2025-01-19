@@ -1,0 +1,6 @@
+insightface==0.6.3
+numpy==1.18.5
+Pillow==7.2.0
+opencv-python==4.2.0.34
+torch==1.6.0
+torchvision==0.7.0
